@@ -1,6 +1,5 @@
 ### Hi there 👋, Ximelay
-Я студент 3-го курса по специальности "Информационные системы и программирование". Мой путь в мире программирования только начинается, но я уже увлечен созданием интересных проектов и изучением новых технологий.
-
+I am a 3rd year student majoring in Information Systems and Programming. My path in the world of programming is just beginning, but I am already passionate about creating interesting projects and learning new technologies.
 Skills: PYTHON / C# / JS / HTML / CSS / PHP / SQL
 
 - 🔭 I’m currently working on DS-bot 
