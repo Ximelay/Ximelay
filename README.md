@@ -3,7 +3,7 @@ I am a 3rd year student majoring in Information Systems and Programming. My path
 
 Skills: PYTHON / C# / JS / HTML / CSS / PHP / SQL
 
-- 🔭 I’m currently working on [Practice_Shop](https://github.com/Ximelay/Practice_Shop "Practice_Shop")
+- 🔭 I’m currently working on [Convertor-bot](https://github.com/Ximelay/Convertor-telegram-bot")
 - 🌱 I’m currently learning IGBPOU IO Irkutsk Regional College of Pedagogical Education 
 - 📫 How to reach me: https://t.me/Ximelay_y 
 - 😄 Pronouns: He/his 
