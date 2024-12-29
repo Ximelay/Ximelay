@@ -49,12 +49,6 @@ I'm a 3rd year student majoring in **Information Systems and Programming** and I
 
 ---
 
-#### 📈 GitHub Stats:
-![Ximelay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ximelay&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ximelay&layout=compact&theme=radical)
-
----
-
 #### 🌐 Contact me:
 [![Telegram](https://img.shields.io/badge/Telegram-%40Ximelay_y-blue?logo=telegram)](https://t.me/Ximelay_y)
 [![Email](https://img.shields.io/badge/Email-iliaimax64%40gmail.com-red?logo=gmail&logoColor=white)](mailto:iliaimax64@gmail.com)
