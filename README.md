@@ -1,8 +1,4 @@
 ### Hello 👋, I'm Ximelay!  
-![Profile Views](https://komarev.com/ghpvc/?username=Ximelay&color=blue)  
-[![GitHub Followers](https://img.shields.io/github/followers/Ximelay?style=social)](https://github.com/Ximelay)  
-[![Telegram](https://img.shields.io/badge/Telegram-%40Ximelay_y-blue?logo=telegram)](https://t.me/Ximelay_y)
-
 ---
 
 #### 🚀 About me:
