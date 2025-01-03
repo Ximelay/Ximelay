@@ -47,7 +47,6 @@ I'm a 3rd year student majoring in **Information Systems and Programming** and I
 - **[Minecraft Project Website](https://github.com/Krastti/TestLauncher):** improved the existing Minecraft project website with new features, an improved UI, and robust backend integration.
 - **[Online Store with REST API](https://github.com/Ximelay/Wander-Wonder-Shop):** developed a secure e-commerce platform with Google and Yandex account integration for authentication.
 
----
 
 #### 🌐 Contact me:
 [![Telegram](https://img.shields.io/badge/Telegram-%40Ximelay_y-blue?logo=telegram)](https://t.me/Ximelay_y)
