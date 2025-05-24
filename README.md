@@ -30,7 +30,7 @@ I'm a 3rd year student majoring in **Information Systems and Programming** and I
 ---
 
 #### 🎯 What I'm currently working on:
-- **[Convertor-telegram-bot](https://github.com/Ximelay/Convertor-telegram-bot):** a feature-rich bot that automates file conversion and provides real-time updates.
+- **[Android Schedule App IRKPO](https://github.com/Ximelay/android-scheduleApp):** a multifunctional bot, Android application, which provides convenient access to viewing the schedule, academic performance of students of [IRKPO](https://irkpo.ru/www/)
 
 ---
 
